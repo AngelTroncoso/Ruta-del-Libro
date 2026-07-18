@@ -1,0 +1,8 @@
+{
+  "name": "Rutas Culturales Chile",
+  "description": "Explora rutas culturales e interactivas en Chile basadas en literatura y cine con inteligencia artificial.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
